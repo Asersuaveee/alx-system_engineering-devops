@@ -1,2 +1,2 @@
 #!/bin/bsah
-touch hello
+/touch hello
